@@ -1,0 +1,1 @@
+./e2a ./input/agcpcpp ./output/agcpcpp.csv ./metadata/agcpcpp_md.csv ./metadata/agcpcpp.md as400 12345
