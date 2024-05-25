@@ -54,7 +54,7 @@ typedef struct tag_metadatarecord {
   char sTranslation[50];
 } METADATARECORD;
 
-//holds metadata required by Produban's file ingestion process
+//holds metadata required by the file ingestion process
 typedef struct tag_ingestionmetadata {
   char sDatabase[100];
   char sTable[20];
